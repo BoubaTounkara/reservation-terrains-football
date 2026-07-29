@@ -4,6 +4,9 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Espace de noms et assembly conserves (TP1) pour ne pas modifier le code source existant -->
+    <RootNamespace>TP1</RootNamespace>
+    <AssemblyName>TP1</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
